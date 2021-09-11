@@ -1,6 +1,6 @@
-# untitled
+# GotSurvivalNoteTaker111
 
-A new Flutter project.
+A new Flutter project to take note for GoT survival mode.
 
 ## Getting Started
 
